@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RedZ\\Desktop\\Xyphora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\calypso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:calypso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\calypso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:calypso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\calypsoresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:calypsoresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Xyphora.csproj|C:\\Users\\RedZ\\Desktop\\Xyphora\\webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Xyphora.csproj|solutionrelative:webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Xyphora.csproj|C:\\Users\\RedZ\\Desktop\\Xyphora\\warnuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Xyphora.csproj|solutionrelative:warnuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\proxychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:proxychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\pixelcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:pixelcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\ocr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:ocr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\needupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:needupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\formuihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:formuihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\customtaskbarshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:customtaskbarshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\warnuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:warnuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\xyphora\\customtaskbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:customtaskbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calypso",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\Calypso.csproj",
+              "RelativeDocumentMoniker": "Calypso.csproj",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\Calypso.csproj",
+              "RelativeToolTip": "Calypso.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T06:39:00.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalypsoResources.resx",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\CalypsoResources.resx",
+              "RelativeDocumentMoniker": "CalypsoResources.resx",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\CalypsoResources.resx",
+              "RelativeToolTip": "CalypsoResources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-05T06:38:00.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:15:45.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProxyChecker.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\ProxyChecker.cs",
+              "RelativeDocumentMoniker": "ProxyChecker.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\ProxyChecker.cs",
+              "RelativeToolTip": "ProxyChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:15:41.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PixelColor.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\PixelColor.cs",
+              "RelativeDocumentMoniker": "PixelColor.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\PixelColor.cs",
+              "RelativeToolTip": "PixelColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:15:38.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OCR.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\OCR.cs",
+              "RelativeDocumentMoniker": "OCR.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\OCR.cs",
+              "RelativeToolTip": "OCR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:15:33.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NeedUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\NeedUpdate.cs",
+              "RelativeDocumentMoniker": "NeedUpdate.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\NeedUpdate.cs",
+              "RelativeToolTip": "NeedUpdate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:15:29.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HttpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\HttpRequest.cs",
+              "RelativeDocumentMoniker": "HttpRequest.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\HttpRequest.cs",
+              "RelativeToolTip": "HttpRequest.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwDQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:15:24.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormUIHelper.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\FormUIHelper.cs",
+              "RelativeDocumentMoniker": "FormUIHelper.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\FormUIHelper.cs",
+              "RelativeToolTip": "FormUIHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:12:19.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomTaskbarShow.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\CustomTaskbarShow.cs",
+              "RelativeDocumentMoniker": "CustomTaskbarShow.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\CustomTaskbarShow.cs",
+              "RelativeToolTip": "CustomTaskbarShow.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwIMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:33:43.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calypso.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\Calypso.cs",
+              "RelativeDocumentMoniker": "Calypso.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\Calypso.cs",
+              "RelativeToolTip": "Calypso.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:02:15.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WarnUser.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\WarnUser.cs",
+              "RelativeDocumentMoniker": "WarnUser.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\WarnUser.cs",
+              "RelativeToolTip": "WarnUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBgAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:15:50.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebScraper.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\WebScraper.cs",
+              "RelativeDocumentMoniker": "WebScraper.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\WebScraper.cs",
+              "RelativeToolTip": "WebScraper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:15:55.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarnUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\WarnUser.cs",
+              "RelativeDocumentMoniker": "WarnUser.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\WarnUser.cs [Design]",
+              "RelativeToolTip": "WarnUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:27:24.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomTaskbar.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\CustomTaskbar.cs",
+              "RelativeDocumentMoniker": "CustomTaskbar.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\CustomTaskbar.cs",
+              "RelativeToolTip": "CustomTaskbar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:15:21.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebScraper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Xyphora\\WebScraper.cs",
+              "RelativeDocumentMoniker": "WebScraper.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Xyphora\\WebScraper.cs [Design]",
+              "RelativeToolTip": "WebScraper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:17:17.533Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 178,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

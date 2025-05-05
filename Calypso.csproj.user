@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomTaskbar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomTaskbarShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NeedUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProxyChecker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HttpRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OCR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PixelColor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WarnUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WebScraper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WebWorm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Calypso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="CalypsoResources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

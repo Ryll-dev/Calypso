@@ -1,0 +1,590 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RedZ\\Desktop\\Calypso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\windowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:windowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\webworm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:webworm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\webworm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:webworm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\webscraper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:webscraper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\warnuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:warnuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\warnuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:warnuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\taskbarinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:taskbarinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\proxychecker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:proxychecker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\proxychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:proxychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\pixelcolor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:pixelcolor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\pixelcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:pixelcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\ocr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:ocr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\ocr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:ocr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\needupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:needupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\needupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:needupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\installedappreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:installedappreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\httprequest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:httprequest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:httprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\formuihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:formuihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\customtaskbarshow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:customtaskbarshow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\customtaskbarshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:customtaskbarshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\customtaskbar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:customtaskbar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\customtaskbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:customtaskbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\controlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:controlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\calypso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:calypso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\calypso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:calypso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|c:\\users\\redz\\desktop\\calypso\\calypso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B31BCC-C518-4446-BF6D-4F2E3A68B96E}|Calypso.csproj|solutionrelative:calypso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowManager.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\WindowManager.cs",
+              "RelativeDocumentMoniker": "WindowManager.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\WindowManager.cs",
+              "RelativeToolTip": "WindowManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:44:35.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebWorm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\WebWorm.Designer.cs",
+              "RelativeDocumentMoniker": "WebWorm.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\WebWorm.Designer.cs",
+              "RelativeToolTip": "WebWorm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:44:32.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebWorm.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\WebWorm.cs",
+              "RelativeDocumentMoniker": "WebWorm.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\WebWorm.cs",
+              "RelativeToolTip": "WebWorm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:44:27.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebScraper.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\WebScraper.Designer.cs",
+              "RelativeDocumentMoniker": "WebScraper.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\WebScraper.Designer.cs",
+              "RelativeToolTip": "WebScraper.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:44:22.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebScraper.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\WebScraper.cs",
+              "RelativeDocumentMoniker": "WebScraper.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\WebScraper.cs",
+              "RelativeToolTip": "WebScraper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:44:16.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarnUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\WarnUser.Designer.cs",
+              "RelativeDocumentMoniker": "WarnUser.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\WarnUser.Designer.cs",
+              "RelativeToolTip": "WarnUser.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:44:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WarnUser.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\WarnUser.cs",
+              "RelativeDocumentMoniker": "WarnUser.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\WarnUser.cs",
+              "RelativeToolTip": "WarnUser.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:44:09.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskbarInfo.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\TaskbarInfo.cs",
+              "RelativeDocumentMoniker": "TaskbarInfo.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\TaskbarInfo.cs",
+              "RelativeToolTip": "TaskbarInfo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:44:01.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\Settings.Designer.cs",
+              "RelativeToolTip": "Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:54.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:47.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProxyChecker.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\ProxyChecker.Designer.cs",
+              "RelativeDocumentMoniker": "ProxyChecker.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\ProxyChecker.Designer.cs",
+              "RelativeToolTip": "ProxyChecker.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:44.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProxyChecker.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\ProxyChecker.cs",
+              "RelativeDocumentMoniker": "ProxyChecker.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\ProxyChecker.cs",
+              "RelativeToolTip": "ProxyChecker.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:39.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:35.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PixelColor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\PixelColor.Designer.cs",
+              "RelativeDocumentMoniker": "PixelColor.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\PixelColor.Designer.cs",
+              "RelativeToolTip": "PixelColor.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:32.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PixelColor.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\PixelColor.cs",
+              "RelativeDocumentMoniker": "PixelColor.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\PixelColor.cs",
+              "RelativeToolTip": "PixelColor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:26.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OCR.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\OCR.Designer.cs",
+              "RelativeDocumentMoniker": "OCR.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\OCR.Designer.cs",
+              "RelativeToolTip": "OCR.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:23.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OCR.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\OCR.cs",
+              "RelativeDocumentMoniker": "OCR.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\OCR.cs",
+              "RelativeToolTip": "OCR.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:17.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NeedUpdate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\NeedUpdate.Designer.cs",
+              "RelativeDocumentMoniker": "NeedUpdate.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\NeedUpdate.Designer.cs",
+              "RelativeToolTip": "NeedUpdate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:07.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NeedUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\NeedUpdate.cs",
+              "RelativeDocumentMoniker": "NeedUpdate.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\NeedUpdate.cs",
+              "RelativeToolTip": "NeedUpdate.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAewEQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:43:03.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InstalledAppReader.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\InstalledAppReader.cs",
+              "RelativeDocumentMoniker": "InstalledAppReader.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\InstalledAppReader.cs",
+              "RelativeToolTip": "InstalledAppReader.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:58.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HttpService.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\HttpService.cs",
+              "RelativeDocumentMoniker": "HttpService.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\HttpService.cs",
+              "RelativeToolTip": "HttpService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HttpRequest.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\HttpRequest.Designer.cs",
+              "RelativeDocumentMoniker": "HttpRequest.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\HttpRequest.Designer.cs",
+              "RelativeToolTip": "HttpRequest.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:51.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HttpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\HttpRequest.cs",
+              "RelativeDocumentMoniker": "HttpRequest.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\HttpRequest.cs",
+              "RelativeToolTip": "HttpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:47.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormUIHelper.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\FormUIHelper.cs",
+              "RelativeDocumentMoniker": "FormUIHelper.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\FormUIHelper.cs",
+              "RelativeToolTip": "FormUIHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:45.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\FileManager.cs",
+              "RelativeDocumentMoniker": "FileManager.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\FileManager.cs",
+              "RelativeToolTip": "FileManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:43.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomTaskbarShow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\CustomTaskbarShow.Designer.cs",
+              "RelativeDocumentMoniker": "CustomTaskbarShow.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\CustomTaskbarShow.Designer.cs",
+              "RelativeToolTip": "CustomTaskbarShow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:42.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomTaskbarShow.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\CustomTaskbarShow.cs",
+              "RelativeDocumentMoniker": "CustomTaskbarShow.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\CustomTaskbarShow.cs",
+              "RelativeToolTip": "CustomTaskbarShow.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:38.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomTaskbar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\CustomTaskbar.Designer.cs",
+              "RelativeDocumentMoniker": "CustomTaskbar.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\CustomTaskbar.Designer.cs",
+              "RelativeToolTip": "CustomTaskbar.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:28.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomTaskbar.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\CustomTaskbar.cs",
+              "RelativeDocumentMoniker": "CustomTaskbar.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\CustomTaskbar.cs",
+              "RelativeToolTip": "CustomTaskbar.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:23.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ControlExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\ControlExtensions.cs",
+              "RelativeDocumentMoniker": "ControlExtensions.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\ControlExtensions.cs",
+              "RelativeToolTip": "ControlExtensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:22.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Calypso.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\Calypso.Designer.cs",
+              "RelativeDocumentMoniker": "Calypso.Designer.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\Calypso.Designer.cs",
+              "RelativeToolTip": "Calypso.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:42:14.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Calypso.cs",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\Calypso.cs",
+              "RelativeDocumentMoniker": "Calypso.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\Calypso.cs",
+              "RelativeToolTip": "Calypso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:41:49.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Calypso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RedZ\\Desktop\\Calypso\\Calypso.cs",
+              "RelativeDocumentMoniker": "Calypso.cs",
+              "ToolTip": "C:\\Users\\RedZ\\Desktop\\Calypso\\Calypso.cs [Design]",
+              "RelativeToolTip": "Calypso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:41:07.115Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
